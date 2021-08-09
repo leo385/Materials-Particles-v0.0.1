@@ -3,6 +3,7 @@ My first materials, particles simulation project, it shows how materials things 
 
 Materials Simulation Project, I took into account some materials like: Fire, Water, Sand, Mud, Ice and Stones.
  *  This Simulator has one specific purpose, show physics of these materials with diffrent proporties, like gravity, mass, overlap objects.
+ *  If you want to open this application you must get to /Debug folder and open Materials-Simulator exec file.
  *  I didn't check any physics among these materials, because I needed break to the rest of my mind :D.
  *  In this simulator we've got edges that we can set them the way we like it, enough to drag the black circles.
  *  We can choose materials on toolbar by pressing A or D :)
