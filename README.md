@@ -1,7 +1,5 @@
 # Materials-Particles-v0.0.1
 
-System Requirments: Linux x86_64
-
 My first materials, particles simulation project, it shows how materials things behaviouring among.
 
 Materials Simulation Project, I took into account some materials like: Fire, Water, Sand, Mud, Ice and Stones.
